@@ -1,0 +1,3 @@
+※レジストリから確認：
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\Registration
+でPIDKEY項目の値がキーである。
